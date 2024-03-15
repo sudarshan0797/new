@@ -1,0 +1,9 @@
+{
+	"name": "demodatafactoryacnt",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "daf16e65-6ab8-4939-8dcb-c8d1300c6fa1",
+		"tenantId": "0998f20e-322c-4a04-a7e7-6050e47a7d3f"
+	}
+}
